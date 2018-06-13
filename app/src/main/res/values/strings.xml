@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">popup</string>
+    <string name="facebook_app_id">803808593232264</string>
+    <string name="fb_login_protocol_scheme">fb803808593232264</string>
+</resources>
